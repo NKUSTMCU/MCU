@@ -4,7 +4,7 @@
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/hardware.png)
 
 ### MCU
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/.PNG)
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/rsp.PNG)
 
 ### sensor
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/sensor.PNG)
