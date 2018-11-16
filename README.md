@@ -22,3 +22,14 @@ http://www.farnell.com/datasheets/2056179.pdf
 
 
 ## Part 2 計畫實施
+### plan 1 盲區偵測
+
+用這張圖的MCU，LED和超音波，達成盲區偵測的功能。
+
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/hardware.png)
+
+### plan 2 即時影像
+
+用上圖的MCU，CAM和手機，達成手機即時影像的功能。其中，傳輸用wifi建立區域網路
+
+
