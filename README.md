@@ -6,3 +6,8 @@
 
 ### MCU
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/arduino.PNG)
+
+### sensor
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/sensor.PNG)
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/sensor2.PNG)
+
