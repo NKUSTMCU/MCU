@@ -1,24 +1,29 @@
-# 機車盲區偵測
+# Motorcycle Blind Spot Detection
 
-## Part 1 硬體架構
+## Part1: Hardware
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/hardware.png)
 
-### 1. MCU
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/rsp.PNG)
+## 1. Microcontroller(MCU)
+![image](https://github.com/NKUSTMCU/MCU/blob/master/document/PPT1/MCU.PNG)
 
-https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM_1p0.pdf
+DATASHEET :
+<https://static.raspberrypi.org/files/product-briefs/Raspberry-Pi-Model-Bplus-Product-Brief.pdf>
 
-### 2. sensor
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/sensor.PNG)
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/sensor2.PNG)
+## 2.SENSOR
+![image](https://github.com/NKUSTMCU/MCU/blob/master/document/PPT1/2.PNG)
 
-https://www.mpja.com/download/hc-sr04_ultrasonic_module_user_guidejohn.pdf
+DATASHEET :
+<https://www.mouser.com/ds/2/813/HCSR04-1022824.pdf>
 
-### 3. camra
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/Cam1.PNG)
-![image](https://github.com/NKUSTMCU/MCU/blob/master/img/Cam2.PNG)
+## 3. NoIR Camera
+![image](https://github.com/NKUSTMCU/MCU/blob/master/document/PPT1/3.PNG)
 
-http://www.farnell.com/datasheets/2056179.pdf
+DATASHEET :
+<http://www.farnell.com/datasheets/2056180.pdf>
+
+## 4. ROG ADDRESSABLE LED STRIP
+![image](https://github.com/NKUSTMCU/MCU/blob/master/document/PPT1/4.PNG)
+
 
 
 ## Part 2 計畫實施
