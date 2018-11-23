@@ -24,9 +24,13 @@ DATASHEET :
 ## 4. ROG ADDRESSABLE LED STRIP
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/document/PPT1/4.PNG)
 
+## Part2: Software
+
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/softwrae.PNG)
 
 
-## Part 2 計畫實施
+
+## Part 3 計畫實施
 ### plan 1 盲區偵測
 
 用這張圖的MCU，LED和超音波，達成盲區偵測的功能。
