@@ -25,4 +25,5 @@ GND：接地。
 結果大致上正確，最遠距離大概50幾公分，應該堪用。
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/s12.jpg)
 
+剩下的功能等螢幕和鏡頭到貨再加上
 
