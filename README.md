@@ -37,6 +37,8 @@ DATASHEET :
 
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/hardware.png)
 
+example : <https://github.com/NKUSTMCU/MCU/tree/master/example>
+
 ### plan 2 即時影像
 
 用上圖的MCU，CAM和手機，達成手機即時影像的功能。其中，傳輸用wifi建立區域網路
