@@ -16,5 +16,12 @@ Echo/RX：UART 模式下，接外部電路UART 的RX 端；為GPIO模式時，�
 
 GND：接地。
 
+## test
+去同學家好不容易才借到螢幕
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/s11.jpg)
+
+## 結果如下
+
+![image](https://github.com/NKUSTMCU/MCU/blob/master/img/s12.jpg)
 
 
