@@ -4,7 +4,6 @@ from _thread import *
 import threading
 
 new_value = 0
-old = 0
 
 print_lock = threading.Lock() 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)      
