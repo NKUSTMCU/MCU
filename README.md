@@ -43,11 +43,7 @@ example : <https://github.com/NKUSTMCU/MCU/tree/master/example>
 
 用上圖的MCU，CAM和手機，達成手機即時影像的功能。其中，傳輸用wifi建立區域網路
 
-
-## plan 3 server
-
-
-MCU  : <https://github.com/NKUSTMCU/MCU/tree/master/example/server/pi>
+初步實驗  : <https://github.com/NKUSTMCU/MCU/tree/master/software/server/Ver1.0>
 
 
 ## 市面上成熟的類似產品
