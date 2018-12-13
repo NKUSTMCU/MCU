@@ -16,8 +16,13 @@
 ## 手機端
 
 手機再打上一樣的IP即可
+
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/img/ip1.PNG)
 
+傳訊息
+
+
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/img/66839.jpg)
 
 
 結果
