@@ -5,9 +5,9 @@
 
 ## Part2:test(使用arduino測試app)
 # code
-#include <SoftwareSerial.h> //Arduino I2C library
+#include <SoftwareSerial.h> //Arduino I2C library  
 
-const int trig =  8;  //define Arduino pin
+const int trig =  8;  //define Arduino pin  
 const int echo =  9;
 const int TX   = 10;
 const int RX   = 11;
