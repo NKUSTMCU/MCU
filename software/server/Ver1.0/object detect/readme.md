@@ -24,3 +24,10 @@
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/1545844786149.jpg)
 
 預計程式下次做，驅動的部分再試試看。
+
+
+## 待解問題
+
+1. 反應時間有點慢，可能下次會用其他輕量化的模型解決。
+
+2. 驅動裝起來後，用即時辨識可能運行會更順暢。
