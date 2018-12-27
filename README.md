@@ -46,6 +46,12 @@ example : <https://github.com/NKUSTMCU/MCU/tree/master/example>
 
 初步實驗  : <https://github.com/NKUSTMCU/MCU/tree/master/software/server/Ver1.0>
 
+### plan 3 object detect
+
+追撞警示系統的概念
+
+初步實驗  : <https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect>
+
 
 ## 市面上成熟的類似產品
 
