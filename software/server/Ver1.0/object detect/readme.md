@@ -4,7 +4,7 @@
 
 影片 : <https://www.youtube.com/watch?v=qj37CkcKWJ8>
 
-交通事故中，常有追撞事件
+交通事故中，常有追撞事件，何況是蓄意。因此有增加此功能之動機。
 
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/sc0.PNG)
 
