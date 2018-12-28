@@ -38,7 +38,7 @@ DATASHEET :
 
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/img/hardware.png)
 
-example : <https://github.com/NKUSTMCU/MCU/tree/master/example>
+初步實驗 : <https://github.com/NKUSTMCU/MCU/tree/master/example>
 
 ### plan 2 即時影像
 
