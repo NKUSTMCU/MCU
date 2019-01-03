@@ -2,6 +2,8 @@
 
 這次驅動還是裝不上去， 所以做個小改。
 
-改成3組偵測的，我是用複製的，很LOW我知道。
+改成3組偵測的，我是用複製的，很LOW我知道。QQ
 
 跪求高端寫法，感恩。
+
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/alarm/led/V1.0/image.png)
