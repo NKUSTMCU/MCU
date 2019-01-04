@@ -102,31 +102,31 @@ while True:
     print("cm=%f\tinches=%f" % get_distance2())
     time.sleep(1)
 	
-    if distance_cm<50:
-          GPIO.output(led_pin, False)
-        time.sleep(0.5)
-          GPIO.output(led_pin, True)
-        time.sleep(0.5)
+     if distance_cm<50:
+         GPIO.output(led_pin, False)
+         time.sleep(0.5)
+         GPIO.output(led_pin, True)
+         time.sleep(0.5)
      else:
           GPIO.output(led_pin, True)
 
 	##11111111111111111111111111
 	
 	if distance_cm1<50:
-          GPIO.output(led_pin1, False)
-        time.sleep(0.5)
-          GPIO.output(led_pin1, True)
-        time.sleep(0.5)
+           GPIO.output(led_pin1, False)
+           time.sleep(0.5)
+           GPIO.output(led_pin1, True)
+           time.sleep(0.5)
      else:
           GPIO.output(led_pin1, True)
 		  
 	##2222222222222222222222222222
 	
 	if distance_cm2<50:
-          GPIO.output(led_pin2, False)
-        time.sleep(0.5)
-          GPIO.output(led_pin2, True)
-        time.sleep(0.5)
+           GPIO.output(led_pin2, False)
+           time.sleep(0.5)
+           GPIO.output(led_pin2, True)
+           time.sleep(0.5)
      else:
           GPIO.output(led_pin2, True)
 		  
