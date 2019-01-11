@@ -44,7 +44,7 @@ DATASHEET :
 
 用上圖的MCU，CAM和手機，達成手機即時影像的功能。其中，傳輸用wifi建立區域網路
 
-初步實驗  : <https://github.com/NKUSTMCU/MCU/tree/master/software/server/Ver1.0>
+初步實驗  : <https://github.com/NKUSTMCU/MCU/tree/master/software/server/V2.0>
 
 ### plan 3 object detect
 
