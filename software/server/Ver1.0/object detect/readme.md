@@ -12,7 +12,7 @@
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/sc1.PNG)
 
 
-## 整體方法
+## 方案一 YOLO
 
 在樹梅派加上鏡頭，以辨識後方來車。 
  
@@ -26,8 +26,33 @@
 預計程式下次做，驅動的部分再試試看。
 
 
-## 待解問題
+### 待解問題
 
 1. 反應時間有點慢，可能下次會用其他輕量化的模型解決。
 
 2. 驅動裝起來後，用即時辨識可能運行會更順暢。
+
+
+
+## 方案二 Tensorflow Object Detection API
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/t1.PNG)
+
+效果
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/t0.PNG)
+Vedio : <https://youtu.be/bfkwJfo75A0>
+
+
+### 待解問題
+1. 還是卡~不過快很多了，好像還有救，那就再搶救一下
+
+2. 日後會朝向加GPU的方式解決
+
+## 方案三 google Cloud Vision API
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/c0.PNG)
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/Ver1.0/object%20detect/img/c1.PNG)
+
+### 待解問題
+1. 要信用卡付費繳錢
+2. 需要觀眾老爺斗內
+3. 有機會做，將朝邊緣運算發展
+
