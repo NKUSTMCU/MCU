@@ -2,7 +2,7 @@
 
 ## MCU
 執行main.py
-![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/V2.0/img/p0.PNG)
+![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/V2.0/img/s0.PNG)
 
 ## phone
 
@@ -26,7 +26,7 @@ vedio : <https://www.youtube.com/watch?v=l3Oes8FUnfQ&feature=youtu.be>
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/V2.0/img/g0.PNG)
 
 ### 3.待機
-緊急狀況，例如電瓶用完，可以關掉此機器，減少電瓶負載。
+緊急狀況，例如電瓶用完，可以關掉此機器，不用拆車殼，即可減少電瓶負載。
 ![image](https://github.com/NKUSTMCU/MCU/blob/master/software/server/V2.0/img/g3.PNG)
 
 ### 4.關閉GPS
