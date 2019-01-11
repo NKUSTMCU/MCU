@@ -16,6 +16,8 @@
 
 vedio : <https://www.youtube.com/watch?v=l3Oes8FUnfQ&feature=youtu.be>
 
+APP丟不上來，所以放雲端。
+
 ## 待加功能
 ### 1.測速提醒
 提醒駕駛人勿超速
